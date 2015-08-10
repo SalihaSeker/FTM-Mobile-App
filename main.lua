@@ -3,7 +3,7 @@
 -- main.lua deneme 1
 --fatih
 
---burası değiştirildi.
+--burası değiştirildi. Saliha
 --
 -----------------------------------------------------------------------------------------
 local physical = require( "physics" )
